@@ -1,3 +1,2 @@
--- SQLite
 SELECT *
-FROM shop
+FROM item
